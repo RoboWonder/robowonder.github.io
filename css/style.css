@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'TimeBurner';
-  src: url('../font/timeburnerbold.ttf') format('truetype'); /* IE9 Compat Modes */
-  src: url('../font/timeburnernormal.ttf')  format('truetype');
+  src: url('../fonts/timeburnerbold.ttf') format('truetype'); /* IE9 Compat Modes */
+  src: url('../fonts/timeburnernormal.ttf')  format('truetype');
 }
 
 
@@ -200,7 +200,6 @@ form {
 
 .page{
   width: 595px;
-  height: 842px;
   background: #fff;
   margin: 0 auto 20px auto;
   box-shadow: 1px 1px 5px 2px #111;
