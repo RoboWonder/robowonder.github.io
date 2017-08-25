@@ -11,6 +11,10 @@
 </head>
 
 <body>
+
+    <div class="print-button">
+        <a class="print" onclick="_print()" href="#"><img src="img/icon_print.png"></a>
+    </div>
     <div class="page">
         <div class="header">
             <div class="face">
@@ -191,10 +195,7 @@
     <script type="text/javascript">
         function _print() 
         {
-            var WinPrint = window.open('print.pdf');
-            WinPrint.focus();
-            
-
+            window.frames.okPrint.print()
         }
     </script>
 </body>
