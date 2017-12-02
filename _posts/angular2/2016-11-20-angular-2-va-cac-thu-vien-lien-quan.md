@@ -19,15 +19,15 @@ Mở source file index.html ra và... Ôi mẹ ơi, một mớ lằng nhằng ch
 4. Rx.js
 5. angular2.dev.js
 
-##Giờ đi tìm hiểu từng file xem nó là cái gì.
+## Giờ đi tìm hiểu từng file xem nó là cái gì.
 
-###System.js
+### System.js
 
 Đây là một thư viện được viết bởi [Guy Bedford](https://github.com/guybedford) và các cộng sự. Được viết dựa trên es6-module-loader để thay vì chỉ load các module của es6 thì còn có thể load được cả CommonJs, AMD, global script. Được gọi là  “Universal dynamic module loader”.
 
 Như vậy, Angular không có hệ thống module riêng như Angular1 mà sử dụng lại của System.js. Vậy nên đầu tiên phải import nó vào trước nếu không Angular sẽ không chạy được đâu nhá.
 
-###Typescript.js
+### Typescript.js
 
 Chắc hẳn các bạn đa số đều biết về TypeScript, trước đây tôi có một loạt bài viết về thằng này nhưng quên backup lại khi trả server.
 
@@ -43,19 +43,19 @@ System.config({
 });
 ```
 
-###angular2-polyfills
+### angular2-polyfills
 
 File thực chất là hợp nhất giữa zone.js và reflect-metadata.
 
-###Rx.js
+### Rx.js
 
 Là thư viện Observables. Thuật ngữ này sẽ gặp nhiều khi đi sâu vào Angular. Nó được bổ sung giống Promises ở Angular1. Cho dù bạn có hay không sử dụng Observables thì vẫn phải import thư viện này vào.
 
-###angular2.dev.js
+### angular2.dev.js
 
 Cái này nhìn thấy chữ dev là rõ rồi hen. Không cần nói thêm nữa.
 
-##Tổng kết
+## Tổng kết
 
 Hi vọng bài viết này sẽ giúp các bạn đỡ băn khoăn về các thư viện mà Angular sử dụng. Vào angular.io để tìm hiểu thêm trong lúc tôi viết bài mới.
 
