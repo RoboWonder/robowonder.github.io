@@ -1,0 +1,40 @@
+# Site settings
+title: Blog của Robo Wonder
+email: robowonder@outlook.com
+description: > # this means to ignore newlines until "baseurl:"
+  Blog của Robo Wonder
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: http://robowonder.com # the base hostname & protocol for your site
+rss_url: /pages/feed.xml
+author: Robo Wonder
+
+# Sidebar filter
+# Choose 'tag' or 'category' as filter in sidebar.
+filter: 'category'
+recent_num: 20
+
+# Social account
+twitter: robowonder
+facebook: robowonder
+github: robowonder
+instagram: robowonder
+linkedin: robowonder
+
+# avatar and Favicon
+avatar: http://graph.facebook.com/robowonder/picture
+
+# Build settings
+permalink: /:year/:month/:title.html
+markdown: kramdown
+highlighter: rouge
+mathjax: disabled
+sass:
+  style: compressed
+
+# Jekyll Plugin
+# https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
