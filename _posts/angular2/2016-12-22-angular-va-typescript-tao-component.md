@@ -13,14 +13,14 @@ Sau khi tải ứng dụng demo xong, bây giờ các bạn vào thư mục *hel
 
 ## Template
 
-Trong cấu hình template hiện tại của component đang là `Hello {{name}}`, bây giờ các bạn sửa lại như sau:
+Trong cấu hình template hiện tại của component đang là Hello {{name}}, bây giờ các bạn sửa lại như sau:
 
-<dl>
+```
 	<h2>{{componentName}}!</h2>
 	  <div *ngFor="let f of friends">
 	  <h4> Tên : {{f.name}} </h4> <h4>Tuổi: {{f.age}}</h4> 
 	</div>
-</dl>
+```
 
 Template này sẽ dùng một vòng "for" để in ra tất cả phần tử có trong biến friend.
 

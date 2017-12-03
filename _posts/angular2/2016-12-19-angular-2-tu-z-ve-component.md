@@ -19,9 +19,9 @@ Tất cả mọi thứ là conponent. Vâng, chính xác là như vậy. Compone
 
 Đọc một lần thôi, có đọc đi đọc lại mấy dòng đó vài lần cũng chỉ thêm rối chứ chẳng hiểu hơn được đâu. Tôi đã cố viết theo cách dễ hiểu nhất rồi á. Giờ xem ví dụ sẽ hiểu rõ ngay thôi:
 
-<dl>
+```
 	<my-confirmation [message]="'Launch missiles?'" (ok)="launchMissiles()"></my-confirmation>
-</dl>
+```
 
 Giả sử chúng ta có một phần tử HTML như trên, nó đã được tùy chỉnh để phù hợp với một component được định nghĩa như sau:
 
