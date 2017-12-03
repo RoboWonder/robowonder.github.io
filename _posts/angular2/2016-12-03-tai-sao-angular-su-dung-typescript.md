@@ -41,7 +41,7 @@ Một trong những cơn ác mộng của JavaScript là đọc lại code cũ d
 
 TypeScript thì không như vậy, có thể ràng buộc kiểu dữ liệu trả về, kiểu dữ liệu và số lượng các đối số. Nhìn vào đoạn code dưới đây bạn sẽ thấy rõ điều đó
 
-```
+```javascript
 ajax(url: string, settings?: JQueryAjaxSettings): JQueryXHR; 
 
 interface JQueryAjaxSettings { 
@@ -59,10 +59,10 @@ interface JQueryXHR {
 
 Như trên:
 
-	Đối số đầu tiên là kiểu String
-	Đối số thứ hai là giá trị trả về của một hàm tự định nghĩa
-	Kết quả trả về cũng là một hàm tự định nghĩa
-	Như vậy chúng ta có thể thấy sức mạnh của TypeScript đến cỡ nào. Điều quan trọng nữa là TypeScript không bắt buộc chúng ta phải làm như vậy, nhưng chúng ta nên làm để code rõ ràng hơn.
+- Đối số đầu tiên là kiểu String
+- Đối số thứ hai là giá trị trả về của một hàm tự định nghĩa
+- Kết quả trả về cũng là một hàm tự định nghĩa
+- Như vậy chúng ta có thể thấy sức mạnh của TypeScript đến cỡ nào. Điều quan trọng nữa là TypeScript không bắt buộc chúng ta phải làm như vậy, nhưng chúng ta nên làm để code rõ ràng hơn.
 
 ## Tổng kết
 Qua bài này bạn đã hiểu được vì sao Angular lại chọn TypeScript trong khi có nhiều ngôn ngữ khác như: ES5, ES6, Dart, PureScript, Elm, vv .. 
