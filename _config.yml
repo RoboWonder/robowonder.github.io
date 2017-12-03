@@ -38,3 +38,4 @@ gems:
   - jekyll-seo-tag
   - jekyll-feed
 
+future: true
