@@ -28,7 +28,7 @@ Template này sẽ dùng một vòng "for" để in ra tất cả phần tử c�
 
 Tiếp theo đến cấu hình styles, các bạn cấu hình theo mẫu css sau:
 
-```css
+```
 div { 
   background-color:#EFEFEF;
   margin-bottom:15px;

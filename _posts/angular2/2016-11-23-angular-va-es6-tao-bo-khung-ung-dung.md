@@ -15,7 +15,7 @@ Bài viết này sẽ hướng dẫn từ đầu cho các bạn. Quá trình nà
 
 Tất cả mọi cài đặt đều thông qua npm nhé. Mở Terminal hoặc Cmd nếu bạn dùng Windows và gõ đoạn lệnh sau:
 
-```bash
+```
 $ npm install -g yo
 $ npm install generator-angular2
 ```
@@ -24,7 +24,7 @@ $ npm install generator-angular2
 
 Tạo thư mục hello và vào đó chạy  yo  để tạo ra bộ khung cho ứng dụng của bạn. 
 
-```bash
+```
 $ mkdir hello
 $ cd hello
 $ yo angular2
@@ -38,7 +38,7 @@ Yo sẽ tự động chạy npm install cho bạn chứ bạn không cần chạ
 
 Gõ lệnh sau rồi vào trình duyệt truy cập http://localhost:8000.
 
-```bash
+```
 $ npm start
 ```
 

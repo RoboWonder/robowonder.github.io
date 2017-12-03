@@ -19,7 +19,7 @@ Tôi đang bắt đầu một serial viết tutorial cho Angular 2 với TypeScr
 
 Mở command line lên và gõ
 
-```bash
+```
 npm install npm@latest -g
 ```
 
@@ -31,13 +31,13 @@ Vào https://git-scm.com/download để tải git theo hệ điều hành và c�
 
 - Mở command line, di chuyển con trỏ làm việc vào trong thư mục nơi bạn muốn tạo ứng dụng helloworld vừa tạo bằng lệnh cd. Ví dụ:
 
-```bash
+```
 cd E:/project/
 ```
 
 - Tiếp theo chạy lần lượt từng lệnh sau, đợi lệnh này chạy xong thì chạy lệnh tiếp theo:
 
-```bash
+```
 git clone https://github.com/angular/quickstart.git helloworld
 cd helloworld
 npm install
