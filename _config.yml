@@ -3,7 +3,7 @@ title: Blog của Robo Wonder
 email: robowonder@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
   Blog của Robo Wonder
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: http://robowonder.com # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: Robo Wonder
