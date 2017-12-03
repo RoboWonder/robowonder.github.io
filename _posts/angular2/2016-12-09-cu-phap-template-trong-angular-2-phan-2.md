@@ -13,7 +13,7 @@ Nối tiếp [phần 1 về cú pháp template trong Angular 2](http://www.peamo
 
 Đơn giản là biến được đặt trong 2 cặp dấu ngoặc nhọn {{var}}. Khi render Angular sẽ thay bằng giá trị của nó. Như trong Angular 1.
 
-```javascript
+```html
 <div>Hello {{name}}</div>
 ```
 
@@ -21,7 +21,7 @@ Nối tiếp [phần 1 về cú pháp template trong Angular 2](http://www.peamo
 
 Sử dụng dấu ngoặc giúp mã HTML của bạn ngắn gọn hơn, tuy nhiên cần phải biết mỗi loại ngoặc có chức năng gì đã. Xem ví dụ sau có dùng ngoặc:
 
-```javascript
+```html
 <some-component 
   [prop]="someExp" 
   (event)="someEvent()" 
@@ -31,7 +31,7 @@ Sử dụng dấu ngoặc giúp mã HTML của bạn ngắn gọn hơn, tuy nhi�
 
 Tương đương với:
 
-```javascript
+```html
 <some-component 
   bind-prop="someExp" 
   on-event="someEvent()" 
@@ -43,12 +43,12 @@ Tương đương với:
 
 Chẳng biết trong trường hợp này dịch ra là gì, giải thích thì hơi dài dòng. Xem ví dụ sau sẽ hiểu:
 
-```javascript
+```html
 <video-player #player></video-player> 
 <button (click)="player.pause()">Pause</button>
 ```
 
-```javascript
+```html
 <input #i> 
 {{i.value}}
 ```

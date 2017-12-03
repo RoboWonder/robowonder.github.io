@@ -19,7 +19,7 @@ Với có thể cập nhật dữ liệu cho directive vào Input bằng cách b
 
 Nhìn vào ví dụ sau, giả sử ta có một component dùng để render một Toto:
 
-```javascript
+```html
 <mytag [model]="myTodo"></mytag>
 ```
 
@@ -29,7 +29,7 @@ Khi giá trị myToto thay đổi, ngay lập tức Angular sẽ tự động c�
 
 Không chỉ bind data, Angular còn bind cả event mà DOM có hỗ trợ như onClick, onChange, onComplete... Thậm chí là event tự định nghĩa luôn. Giờ sửa ví dụ trên thành:
 
-```javascript
+```html
 <mytag [model]="todo" (complete)="onCompletingTodo(todo)"></mytag>
 ```
 
@@ -62,7 +62,7 @@ Bind hai chiều rất cần thiết trong một số tình huống, nhất là 
 
 Dưới đây là ví dụ về Two-Way bindings:
 
-```javascript
+```html
 <input [(ngModel)]="todo.text"></input>
 ```
 
