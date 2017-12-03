@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cách sử dụng CSRF Protection trong CodeIgniter
-category: Angular
+category: PHP
 keywords: Angular, CodeIgniter, JavaScript, Jquery, PHP, csrf protection  
 ---
 
@@ -15,7 +15,7 @@ Cross Site Request Forgery, là lỗ hổng phổ biến nhất trong các trang
 
 Sau khi cấu hình bật csrf protect thì tất cả các form và ajax trong trang web sẽ không hoạt động. CI sẽ không sử lý dữ liệu được POST lên nếu không gửi kèm token này.
 
-##Cách dùng trong view
+## Cách dùng trong view
 
 Với các view có form, trong controller gọi view bạn cần phải lấy name và token trong lớp Security và truyền vào cho view, bằng cách gọi phương thức get_csrf_token_name() cho name và get_csrf_hash() cho token. Ví dụ:
 
