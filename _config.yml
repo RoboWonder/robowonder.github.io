@@ -20,6 +20,11 @@ github: robowonder
 instagram: robowonder
 linkedin: robowonder
 
+ga:
+  id: UA-105605074-1
+  url: robowonder.com
+
+
 # avatar and Favicon
 avatar: http://graph.facebook.com/100004792424249/picture?width=100&height=100
 
