@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cách sử dụng CSRF Protection trong CodeIgniter
-category: PHP
+category: CodeIgniter
 keywords: Angular, CodeIgniter, JavaScript, Jquery, PHP, csrf protection  
 ---
 
