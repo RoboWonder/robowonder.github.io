@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Angular và ES6: Tạo bộ khung ứng dụng
-category: Angular
+category: Lập trình
+tags: Angular, Angular2, 2016
 keywords: Angular, Angular2, ES6, Setup, 2016
 ---
 

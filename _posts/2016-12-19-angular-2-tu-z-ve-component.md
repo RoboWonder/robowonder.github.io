@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Angular 2 từ A-Z về component
-category: Angular
-keywords: Angular, Angular2, Angular 2 a-z, component    
+category: Lập trình
+tags: Angular, Angular2, 2016
+keywords: Angular, Angular2, Angular 2 a-z, component, 2016
 ---
 
 ![alt text](https://3.bp.blogspot.com/-dZE73m_xDmA/WFLYByetysI/AAAAAAAABjU/mHeO_K22Va02O3IFXP-OtmgOEfW3DderQCLcB/s640/angular_1_component_approximation.png "Angular 2 từ A-Z về component")

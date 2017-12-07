@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Cú pháp template trong Angular 2 - Phần 2
-category: Angular
-keywords: Angular, Angular2, template syntax
+category: Lập trình
+tags: Angular, Angular2, 2016
+keywords: Angular, Angular2, template syntax, 2016
 ---
 
 ![alt text](https://1.bp.blogspot.com/-c4LnEr9Euok/WEWT6zBIBVI/AAAAAAAABik/1pt6dQF7Lv455VVcU_endSRTeiNTgg6gQCPcB/s1600/angular.png "Cú pháp template trong Angular 2")

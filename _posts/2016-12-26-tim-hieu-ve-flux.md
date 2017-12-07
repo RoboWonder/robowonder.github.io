@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Tìm hiểu về Flux
-category: Angular
+category: Lập trình
+tags: JavaScript, Flux
 keywords: Flux, JavaScript     
 ---
 

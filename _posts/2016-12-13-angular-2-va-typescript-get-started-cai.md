@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Angular 2 và TypeScript: Get started - Cài đặt và chạy ứng dụng demo
-category: Angular
-keywords: Angular, Angular2, Get start, TypeScript  
+category: Lập trình
+tags: Angular, Angular2, 2016
+keywords: Angular, Angular2, Get start, TypeScript , 2016
 ---
 
 ![alt text](https://4.bp.blogspot.com/-vpu83W2dQNM/WE2E7ZuwFQI/AAAAAAAABi8/qm-KFc3WmQYLNJh0FZBvVw2yjS-4WMkhgCLcB/s640/angular2typescript.jpg "Angular 2 và TypeScript: Get started - Cài đặt và chạy ứng dụng demo")

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Angular 2 và các thư viện liên quan
-category: Angular
+category: Lập trình
+tags: Angular, Angular2, 2016
 keywords: Angular, Angular2, 2016
 ---
 

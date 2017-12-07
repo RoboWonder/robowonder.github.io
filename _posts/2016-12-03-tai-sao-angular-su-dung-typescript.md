@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Tại sao Angular sử dụng TypeScript
-category: Angular
-keywords: Angular, Angular2, TypeScript
+category: Lập trình
+tags: Angular, Angular2, 2016
+keywords: Angular, Angular2, TypeScript, 2016
 ---
 
 ![alt text](https://1.bp.blogspot.com/-R9CjK-QcVYQ/WEG3XQ00-2I/AAAAAAAABiA/j2ux7ozqw0Aj7eHERa_8V8CxWczhKjqXQCLcB/s320/tai%2Bsao%2Bangular%2Bchon%2Btypescript.png "Tại sao Angular sử dụng TypeScript")
