@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Angular và TypeScript: Tạo component
+title: Angular và TypeScript Tạo component
 category: Lập trình
 tags: Angular, Angular2, 2016
 keywords: Angular, Angular2, Angular 2 a-z, component, 2016
