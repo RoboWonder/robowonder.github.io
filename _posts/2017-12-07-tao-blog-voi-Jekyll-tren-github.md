@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tạo blog với Jekyll trên Github
-category: Công cụ
+category: Công nghệ
 tags: Jekyll, Github, Markdown
 keywords: blog, GitHub, Jekyll, Markdown
 ---

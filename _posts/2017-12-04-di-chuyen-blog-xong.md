@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Di chuyển blog xong
-category: Công cụ
+category: Công nghệ
 tags: Jekyll, Markdown, GitHub
 keywords: blog, GitHub, Jekyll, Markdown
 ---
