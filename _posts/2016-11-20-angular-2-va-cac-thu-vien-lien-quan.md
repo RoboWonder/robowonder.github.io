@@ -1,4 +1,6 @@
 ---
+image: https://4.bp.blogspot.com/-OIsfM_7uAhw/WD3w12mgjOI/AAAAAAAABf8/s9PH6lkSuT8vPEM2r0HWQ0pnPFtQ57t0QCLcB/s320/angular2_thu_vien_phu_thuoc.png
+instantfeedback: true
 layout: post
 title: Angular 2 và các thư viện liên quan
 category: Lập trình

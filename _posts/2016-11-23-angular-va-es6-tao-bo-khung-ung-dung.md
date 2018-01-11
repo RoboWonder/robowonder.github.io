@@ -1,4 +1,6 @@
 ---
+image: https://4.bp.blogspot.com/-zRXAUpuJt78/WD6-e4drdYI/AAAAAAAABgY/BSGV_4U1VJgdLGqyik-ORAlBaE9DS3p1wCLcB/s320/angular2%2Bva%2Bes6.png
+instantfeedback: true
 layout: post
 title: Angular và ES6 - Tạo bộ khung ứng dụng
 category: Lập trình
