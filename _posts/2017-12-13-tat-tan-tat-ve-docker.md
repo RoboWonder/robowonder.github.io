@@ -9,6 +9,8 @@ tags: Docker, tóm lượt, kiến thức cần nhớ
 keywords: Docker, tóm lượt, kiến thức cần nhớ, centos, ubuntu
 ---
 
+![alt text](https://msdnshared.blob.core.windows.net/media/2017/10/docker.png "Các khái niệm cơ bản Docker")
+
 Bài này nói về các khái niệm cơ bản của Docker, những lưu ý và các câu lệnh quan trọng khi sử dụng Docker.
 
 ## Các khái niệm cơ bản

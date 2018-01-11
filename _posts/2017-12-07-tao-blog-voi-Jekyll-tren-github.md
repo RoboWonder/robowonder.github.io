@@ -11,6 +11,9 @@ keywords: blog, GitHub, Jekyll, Markdown
 
 Nếu bạn có thể đọc tài liệu tiếng anh thì xem trên trang chủ của Jekyll, trên đó đã viết rất chi tiết. Vậy nên bài này chỉ dành cho những bạn đọc trên Jekyll rồi mà vẫn chưa làm được.
 
+![alt text](https://jekyllrb.com/img/octojekyll.png "Jekyll + Github")
+
+
 ## Tạo repository
 
 Đăng nhập vào Github, tạo một repository mới, đặt tên theo `tenban.github.io`. Trong đó tenban phải trùng với username của bạn tên Github.

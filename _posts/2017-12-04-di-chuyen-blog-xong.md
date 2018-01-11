@@ -11,6 +11,9 @@ keywords: blog, GitHub, Jekyll, Markdown
 
 Chuyển từ Blogspot sang Github xong được mấy ngày, cảm thấy thoải mái hẳn. Trước đây tôi đã từng sử dụng nhiều nền tảng khác nhau như blog tự code, Wordpress, Ghost blog, rồi sau đó là blogspot. Nhưng chưa bao giờ cảm thấy hài lòng, và lần này quyết định chuyển qua Github.
 
+![alt text](https://jekyllrb.com/img/octojekyll.png "Jekyll + Github")
+
+
 Lý do bỏ những nền tảng kia để chuyển sang Github là:
 
 - Xài Wordpress tuy sướng ở chỗ nhiều giao diện cho mình lựa chọn. Các plugin hỗ trợ SEO rất tốt. Nhưng lại bộ mã nguồn rất tệ và tốc độ khá chậm.
