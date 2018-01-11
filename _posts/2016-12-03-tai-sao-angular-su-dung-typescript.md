@@ -1,7 +1,6 @@
 ---
 image: https://1.bp.blogspot.com/-R9CjK-QcVYQ/WEG3XQ00-2I/AAAAAAAABiA/j2ux7ozqw0Aj7eHERa_8V8CxWczhKjqXQCLcB/s320/tai%2Bsao%2Bangular%2Bchon%2Btypescript.png
 instantfeedback: true
-layout: post
 description: Giới thiệu về Angular 2 và các thư viện liên quan
 layout: post
 title: Tại sao Angular sử dụng TypeScript

@@ -1,5 +1,5 @@
 ---
-image: ""
+image: https://jekyllrb.com/img/octojekyll.png
 instantfeedback: true
 description: Chuyển từ Blogspot sang Github
 layout: post

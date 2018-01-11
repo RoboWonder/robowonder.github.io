@@ -1,5 +1,5 @@
 ---
-image: ""
+image: https://facebook.github.io/flux/img/flux-simple-f8-diagram-with-client-action-1300w.png
 instantfeedback: true
 description: Flux là kiến trúc ứng dụng Facebook dùng để xây dựng các ứng dụng phía client. Kiến trúc này bổ sung khả năng thiết lập dữ liệu theo một hướng cho view của component trong Reactjs.
 layout: post

@@ -1,7 +1,6 @@
 ---
 image: https://4.bp.blogspot.com/-zRXAUpuJt78/WD6-e4drdYI/AAAAAAAABgY/BSGV_4U1VJgdLGqyik-ORAlBaE9DS3p1wCLcB/s320/angular2%2Bva%2Bes6.png
 instantfeedback: true
-layout: post
 description: khi bắt đầu với Angular2 bạn không biết bắt đầu từ đâu, các thư viện liên quan để chạy Angular...Bài viết này sẽ hướng dẫn từ đầu cho các bạn.
 title: Angular và ES6 - Tạo bộ khung ứng dụng
 category: Lập trình

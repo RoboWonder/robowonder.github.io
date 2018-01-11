@@ -1,5 +1,5 @@
 ---
-image: ""
+image: https://jekyllrb.com/img/octojekyll.png
 instantfeedback: true
 description: Tạo một blog với Jekyll và đưa lên github
 layout: post

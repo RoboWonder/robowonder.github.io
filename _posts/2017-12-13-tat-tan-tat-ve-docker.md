@@ -1,5 +1,5 @@
 ---
-image: ""
+image: https://msdnshared.blob.core.windows.net/media/2017/10/docker.png
 instantfeedback: true
 description: Bài này nói về các khái niệm cơ bản của Docker, những lưu ý và các câu lệnh quan trọng khi sử dụng Docker.
 layout: post
