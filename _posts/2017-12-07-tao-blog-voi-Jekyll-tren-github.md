@@ -1,4 +1,7 @@
 ---
+image: ""
+instantfeedback: true
+description: Tạo một blog với Jekyll và đưa lên github
 layout: post
 title: Tạo blog với Jekyll trên Github
 category: Công nghệ

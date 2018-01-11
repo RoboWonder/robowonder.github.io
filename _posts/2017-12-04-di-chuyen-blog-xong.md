@@ -1,4 +1,7 @@
 ---
+image: ""
+instantfeedback: true
+description: Chuyển từ Blogspot sang Github
 layout: post
 title: Di chuyển blog xong
 category: Công nghệ

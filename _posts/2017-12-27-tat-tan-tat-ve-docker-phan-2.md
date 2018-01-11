@@ -1,4 +1,7 @@
 ---
+image: ""
+instantfeedback: true
+description: Bài này nói về các khái niệm cơ bản của Docker, những lưu ý và các câu lệnh quan trọng khi sử dụng Docker.
 layout: post
 title: Tóm lượt tất tần tật về Docker (Phần 2)
 category: Công nghệ

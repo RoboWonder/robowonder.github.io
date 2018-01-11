@@ -1,4 +1,7 @@
 ---
+image: https://1.bp.blogspot.com/-6s7YhOfw4UM/WFPKrfNsJtI/AAAAAAAABkI/57UrZoxi5M8fXJ59E-m9NR6CYTSAJTy2wCLcB/s640/anguar%2B2%2Btao%2Bcomponent%2Bdau%2Btien.png
+instantfeedback: true
+description: Tạo component đầu tiên của bạn
 layout: post
 title: Angular và TypeScript - Tạo component
 category: Lập trình

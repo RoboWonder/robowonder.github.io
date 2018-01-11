@@ -1,4 +1,8 @@
 ---
+image: https://2.bp.blogspot.com/-c4LnEr9Euok/WEWT6zBIBVI/AAAAAAAABiY/do5l9pATlbUxBzVU_q9IesrpNDRfODFogCLcB/s1600/angular.png
+instantfeedback: true
+layout: post
+description: Bài này sẽ nói về một số cú pháp quy định trong Angular 2 để đưa dữ liệu vào template.
 layout: post
 title: Cú pháp template trong Angular 2 - Phần 2
 category: Lập trình

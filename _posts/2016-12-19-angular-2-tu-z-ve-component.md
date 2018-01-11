@@ -1,4 +1,7 @@
 ---
+image: https://3.bp.blogspot.com/-dZE73m_xDmA/WFLYByetysI/AAAAAAAABjU/mHeO_K22Va02O3IFXP-OtmgOEfW3DderQCLcB/s640/angular_1_component_approximation.png
+instantfeedback: true
+description: Trong Angular có rất nhiều thứ quan trọng, nhưng tôi chọn viết về component trước bởi vì nó là thư quan trọng nhất. Tập hợp controller, directive, router
 layout: post
 title: Angular 2 từ A-Z về component
 category: Lập trình

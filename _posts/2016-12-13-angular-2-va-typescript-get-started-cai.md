@@ -1,4 +1,8 @@
 ---
+image: https://2.bp.blogspot.com/-c4LnEr9Euok/WEWT6zBIBVI/AAAAAAAABiY/do5l9pATlbUxBzVU_q9IesrpNDRfODFogCLcB/s1600/angular.png
+instantfeedback: true
+layout: post
+description: Để chạy được Angular 2 trước tiên cần phải có Nodejs, tại sao lại như vậy? Angular 2 dùng ngôn ngữ TypeScript nên cần có Nodejs để biên dịch và một số thư viện được Angular 2 mượn của Nodejs.
 layout: post
 title: Angular 2 và TypeScript - Get started - Cài đặt và chạy ứng dụng demo
 category: Lập trình

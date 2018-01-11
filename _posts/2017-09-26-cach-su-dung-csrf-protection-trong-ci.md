@@ -1,4 +1,7 @@
 ---
+image: https://4.bp.blogspot.com/-_dA-Vfq1q1E/WawpL-2WovI/AAAAAAAABk8/HRpIYBwUqy4KaNeFt6XasJxBsU1jSq2EQCLcBGAs/s400/codeigniter-csrf-security-token-ajax.png
+instantfeedback: true
+description: ross Site Request Forgery, là lỗ hổng phổ biến nhất trong các trang web và ứng dụng web.
 layout: post
 title: Cách sử dụng CSRF Protection trong CodeIgniter
 category: Lập trình
@@ -6,7 +9,7 @@ tags: CodeIgniter, Angular, Jquery
 keywords: Angular, CodeIgniter, JavaScript, Jquery, PHP, csrf protection  
 ---
 
-## Flux là gì?
+## CSRF là gì?
 
 Cross Site Request Forgery, là lỗ hổng phổ biến nhất trong các trang web và ứng dụng web. Lỗ hổng này đã được phát hiện từ rất lâu nên tôi không đi vào chi tiết về nó mà chỉ nói về cách sử dụng trong framework CodeIgniter. Nếu bạn muốn biết thêm về nó thì đọc trên [wikipedia](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
 
