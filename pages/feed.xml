@@ -36,12 +36,12 @@ layout: null
                       <h1>{{ post.title | xml_escape }}</h1>
                       {% if post.image %}
                       <figure>
-                          <img src="{{ post.image }}" alt=" {{ post.title }} ">
+                          <img src="{{ post.image }}" alt=" {{ post.title }} " />
                           <figcaption>{{ post.title }}</figcaption>
                       </figure>
                       {% else %}
                       <figure>
-                          <img src="{{ site.baseurl | prepend: site.url }}/images/sitelogo_640x492.png" alt=" {{ post.title }} ">
+                          <img src="{{ site.baseurl | prepend: site.url }}/img/logo.png" alt=" {{ post.title }} " />
                           <figcaption>{{ post.title }}</figcaption>
                       </figure>
                       {% endif %}
@@ -54,12 +54,7 @@ layout: null
                     {{ post.content }}
                   {% endif %}
                     <footer>
-                        <aside>
-                            {% if post.credit %}
-                              {{ post.credit }}.<br />
-                            {% endif %}
-                            Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
-                        <small>Copyright - Amit Seal Ami</small>
+                        <small>Copyright - Robo Wonder</small>
                   </footer>
                 </article>
               </body>
