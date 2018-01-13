@@ -109,6 +109,7 @@ $(function() {
   });
   // Only show recent
   toc.hide();
+  if(window.screen.availWidth > 1024)
   toc.slice(0, {{ site.recent_num }}).fadeIn(350);
 
   // Menu
