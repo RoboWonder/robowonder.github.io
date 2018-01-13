@@ -10,7 +10,7 @@ tags: Angular, Angular2, 2016
 keywords: Angular, Angular2, template syntax, 2016
 ---
 
-![alt text](https://1.bp.blogspot.com/-c4LnEr9Euok/WEWT6zBIBVI/AAAAAAAABik/1pt6dQF7Lv455VVcU_endSRTeiNTgg6gQCPcB/s1600/angular.png "Cú pháp template trong Angular 2")Cú pháp template trong Angular 2
+<figure><img src="https://4.bp.blogspot.com/-zRXAUpuJt78/WD6-e4drdYI/AAAAAAAABgY/BSGV_4U1VJgdLGqyik-ORAlBaE9DS3p1wCLcB/s320/angular2%2Bva%2Bes6.png" alt="alt text" title="Angular và ES6: Tạo bộ khung ứng dụng"></figure>
 
 Nối tiếp [phần 1 về cú pháp template trong Angular 2](http://www.robowonder.com/2016/12/cu-phap-template-trong-angular-2-phan-1.html). Nếu các bạn chưa đọc thì nên đọc lại trước khi đọc bài này.
 
