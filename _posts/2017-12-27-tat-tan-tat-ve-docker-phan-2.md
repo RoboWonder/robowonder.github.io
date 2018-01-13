@@ -9,7 +9,7 @@ tags: Docker, tóm lượt, kiến thức cần nhớ
 keywords: Docker, tóm lượt, kiến thức cần nhớ, centos, ubuntu
 ---
 
-Bài này tiếp tục nói về các câu lệnh quan trọng khi sử dụng Docker. Nếu bạn chưa đọc bài trước thì xem lại [tại đây](/2017/12/tat-tan-tat-ve-docker.html), bài trước nói về các khái niệm cơ bản và các lệnh liên quan đến Image.
+Bài này tiếp tục nói về các câu lệnh quan trọng khi sử dụng Docker. Nếu bạn chưa đọc bài trước thì xem lại [tại đây](http://robowonder.com/2017/12/tat-tan-tat-ve-docker.html), bài trước nói về các khái niệm cơ bản và các lệnh liên quan đến Image.
 
 <figure><img src="https://msdnshared.blob.core.windows.net/media/2017/10/docker.png" alt="Các khái niệm cơ bản Docker" title="Các khái niệm cơ bản Docker"></figure>
 
