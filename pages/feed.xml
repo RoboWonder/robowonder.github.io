@@ -45,7 +45,6 @@ layout: null
                       </figure>
                       {% endif %}
                       <time class="op-published" dateTime="{{ post.date | date: "%Y-%m-%d %H:%M:%S %Z" }}">{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</time>
-                      <time class="op-modified" dateTime="{{ post.modified | date: "%Y-%m-%d %H:%M:%S %Z" }}">{{ post.modified }}</time>
                   </header>
                   {% if post.instantfeedback %}
                     {{ post.content | replace: '<figure>', '<figure data-feedback="fb:likes">' }}
