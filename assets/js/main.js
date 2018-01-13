@@ -47,6 +47,13 @@ $(function() {
       main.animate({scrollTop: target.offset().top + main.scrollTop() - 70}, 500);
     });
 
+    
+    main.scrollTop(0).addClass('fadeIn');
+    // only remove open in small screen
+    if($(window).width() <= 1024) {
+      menu.add(sidebar).add(main).removeClass('open');
+    }
+
     // discus comment.
     {% if site.disqus.shortname %}
       var ds_loaded = false;
@@ -87,11 +94,6 @@ $(function() {
     'pjax:end': function() {
       afterPjax();
       NProgress.done();
-      main.scrollTop(0).addClass('fadeIn');
-      // only remove open in small screen
-      if($(window).width() <= 1024) {
-        menu.add(sidebar).add(main).removeClass('open');
-      }
     }
   });
 
