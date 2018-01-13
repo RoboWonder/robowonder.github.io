@@ -9,7 +9,7 @@ tags: Docker, tóm lượt, kiến thức cần nhớ
 keywords: Docker, tóm lượt, kiến thức cần nhớ, centos, ubuntu
 ---
 
-![alt text](https://msdnshared.blob.core.windows.net/media/2017/10/docker.png "Các khái niệm cơ bản Docker")
+![alt text](https://msdnshared.blob.core.windows.net/media/2017/10/docker.png "Các khái niệm cơ bản Docker")Các khái niệm cơ bản Docker
 
 Bài này nói về các khái niệm cơ bản của Docker, những lưu ý và các câu lệnh quan trọng khi sử dụng Docker.
 
@@ -17,15 +17,14 @@ Bài này nói về các khái niệm cơ bản của Docker, những lưu ý v�
 
 Docker có 3 khái niệm chính là Image, Container và Repository. Hiểu được 3 khái niệm này thì sẽ hiểu được toàn bộ vòng đời của Docker
 
-#### Image
-
+**Image**
 Tại sao lại gọi là Image (ảnh)? Tương tự như file Image của máy ảo, hay file .ghost của Windows cũng được gọi là Image, bởi vì nó được chụp lại từ một máy thực. Không thể chỉnh sửa hay cấu hình trực tiếp trên file đó, nên có độ tin cậy cao. Hay nói cách khác nó là bản sao của một ổ cứng và dữ liệu bên trong nó là dữ liệu của ổ cứng tại thời điểm nó được chụp.
 
 Giống như việc thay đổi dữ liệu của một ổ cứng chỉ thực hiện được khi cắm vào trong một máy tính, thì dữ liệu bên trong Image cũng chỉ được thay đổi khi đã cắm vào máy ảo.
 
 Trong Docker, cơ chế để tạo, cập nhật Image rất đơn giản. Đương nhiên bạn cũng có thể tải Image của người khác về xài cho lẹ.
 
-#### Container
+**Container**
 
 Hiểu nôm na thì Container như là một máy ảo Linux để chạy Image. Bao gồm quyền root, xử lý tiến trình, quản lý người dùng... Nên ứng dụng có thể chạy bên trong Container. 
 
@@ -40,7 +39,7 @@ Mỗi Container được cách ly hoàn toàn với nhau để đảm bảo sự
 - Thực thi ứng dụng được chỉ định bên trong Container
 - Hủy Container - Kết thúc vòng đời.
 
-#### Repository
+**Repository**
 
 Nơi lưu trữ Image. Nếu là Repository public thì ta có thể tải Image trong đó về xài. Hoặc có thể tạo Repository private trong mạng nội bộ để xài nếu thích. 
 
@@ -52,7 +51,7 @@ Repository public lớn nhất là [Docker Hub](https://hub.docker.com/), chứa
 
 Docker hiện nay đã hỗ trợ rất nhiều nền tảng, nên muốn xem cách cài đặt với nền tảng của bạn đang xài thì lên trang chủ Docker tải về và làm theo hướng dẫn. Ở đây tôi chỉ hướng dẫn với hệ điều hành phổ biến cho máy chủ là Centos:
 
-#### Centos 6
+**Centos 6**
 
 Chạy lần lượt các lệnh sau để tải Docker về và cài đặt:
 
@@ -68,7 +67,7 @@ $ sudo service docker start
 $ sudo chkconfig docker on
 ```
 
-#### Centos 7
+**Centos 7**
 
 Chạy lệnh sau:
 

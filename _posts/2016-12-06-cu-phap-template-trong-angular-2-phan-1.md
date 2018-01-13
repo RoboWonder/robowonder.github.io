@@ -9,7 +9,7 @@ tags: Angular, Angular2, 2016
 keywords: Angular, Angular2, template syntax, 2016
 ---
 
-![alt text](https://2.bp.blogspot.com/-c4LnEr9Euok/WEWT6zBIBVI/AAAAAAAABiY/do5l9pATlbUxBzVU_q9IesrpNDRfODFogCLcB/s1600/angular.png "Cú pháp template trong Angular 2")
+![alt text](https://2.bp.blogspot.com/-c4LnEr9Euok/WEWT6zBIBVI/AAAAAAAABiY/do5l9pATlbUxBzVU_q9IesrpNDRfODFogCLcB/s1600/angular.png "Cú pháp template trong Angular 2")Cú pháp template trong Angular 2
 
 Bài này sẽ nói về một số cú pháp quy định trong Angular 2 để đưa dữ liệu vào template. Vấn đề này đã được nói rõ trong hướng dẫn chính thức của Angular trong trang Template Syntax vi vậy ở đây tôi không nói lại tất cả, chỉ nói những cái chưa rõ hay khó hiểu thôi.
 

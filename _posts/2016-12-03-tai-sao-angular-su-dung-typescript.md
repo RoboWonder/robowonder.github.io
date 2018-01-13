@@ -9,7 +9,7 @@ tags: Angular, Angular2, 2016
 keywords: Angular, Angular2, TypeScript, 2016
 ---
 
-![alt text](https://1.bp.blogspot.com/-R9CjK-QcVYQ/WEG3XQ00-2I/AAAAAAAABiA/j2ux7ozqw0Aj7eHERa_8V8CxWczhKjqXQCLcB/s320/tai%2Bsao%2Bangular%2Bchon%2Btypescript.png "Tại sao Angular sử dụng TypeScript")
+![alt text](https://1.bp.blogspot.com/-R9CjK-QcVYQ/WEG3XQ00-2I/AAAAAAAABiA/j2ux7ozqw0Aj7eHERa_8V8CxWczhKjqXQCLcB/s320/tai%2Bsao%2Bangular%2Bchon%2Btypescript.png "Tại sao Angular sử dụng TypeScript")Tại sao Angular sử dụng TypeScript
 
 Như đã biết Angular1 và hầu hết các framework JavaScript đều được viết bằng JavaScript, điều này là đương nhiên rồi. Vậy tại sao Angular2 lại phải viết bằng TypeScript? Thật là rắc rối khi học Angular lại phải học thêm một ngôn ngữ lập trình mới toanh. Cứ như là bạn đang code bằng CodeIgniter lại chuyển qua Diango trong khi chưa biết gì tới Python vậy.
 

@@ -9,7 +9,7 @@ tags: Angular, Angular2, 2016
 keywords: Angular, Angular2, Angular 2 a-z, component, 2016
 ---
 
-![alt text](https://3.bp.blogspot.com/-dZE73m_xDmA/WFLYByetysI/AAAAAAAABjU/mHeO_K22Va02O3IFXP-OtmgOEfW3DderQCLcB/s640/angular_1_component_approximation.png "Angular 2 từ A-Z về component")
+![alt text](https://3.bp.blogspot.com/-dZE73m_xDmA/WFLYByetysI/AAAAAAAABjU/mHeO_K22Va02O3IFXP-OtmgOEfW3DderQCLcB/s640/angular_1_component_approximation.png "Angular 2 từ A-Z về component")Angular 2 từ A-Z về component
 
 Sau bài Cài đặt và tải ứng dụng demo là bài khởi đầu cho serial về tutorial Angular 2. Bài này viết này là bài được ưu tiên viết kế tiếp. Trong Angular có rất nhiều thứ quan trọng, nhưng tôi chọn viết về component trước bởi vì nó là thư quan trọng nhất. Tập hợp controller, directive, router... đều nằm trong component.
 
@@ -53,7 +53,7 @@ class MyConfirmation {
 
 Ok, giải thích thêm tí về ví dụ. Phần tử HTML có tên là *my-confirmation*. Và tên của component là *MyConfirmation*. Nó ở dòng số 14, *class MyConfirmation* chính là tên component. Như vậy là bạn đã hiểu câu "**một phần tử HTML tùy chỉnh phù hợp với tên của một component được code ở một nơi khác**" rồi chứ. Trong MyComfirmation, chữ "C" sau chữ "My" được viết hoa, khi đó Angular sẽ hiểu bên phía HTML trước chữ C sẽ có dấu "-".
 
-Trong phần tử HTML trên có hai thuộc tính là [message] và (ok) tương ứng với inputs và outputs trong component. Như vậy trên HTML dấu [] có nghĩa là inputs và dấu () có nghĩa là outputs. Vấn đề này đã được nói rõ trong bài [Cú pháp template trong Angular 2 - Phần 1](http://www.peamon.com/2016/12/cu-phap-template-trong-angular-2-phan-1.html), đọc lại nếu bạn không nhớ.
+Trong phần tử HTML trên có hai thuộc tính là [message] và (ok) tương ứng với inputs và outputs trong component. Như vậy trên HTML dấu [] có nghĩa là inputs và dấu () có nghĩa là outputs. Vấn đề này đã được nói rõ trong bài [Cú pháp template trong Angular 2 - Phần 1](http://www.robowonder.com/2016/12/cu-phap-template-trong-angular-2-phan-1.html), đọc lại nếu bạn không nhớ.
 
 ## Component trong component
 
@@ -61,7 +61,7 @@ Rất nhiều bạn khi bắt đầu với Angular hay có suy nghĩ là làm th
 
 Đừng lo lắng, Angular và các framework javascript khác thừa sức làm điều đó. Như hình sau:
 
-![alt text](https://3.bp.blogspot.com/-2BXMmT6Mp_0/WFLkwB-cEsI/AAAAAAAABjs/akQ5I44GnJs4eHLC1RuTRziZ1kvnf_GwgCLcB/s400/component%2Bin%2Bcomponent.jpg "Component trong component")
+![alt text](https://3.bp.blogspot.com/-2BXMmT6Mp_0/WFLkwB-cEsI/AAAAAAAABjs/akQ5I44GnJs4eHLC1RuTRziZ1kvnf_GwgCLcB/s400/component%2Bin%2Bcomponent.jpg "Component trong component")Component trong component
 
 Cứ từ từ theo dõi blog của tôi sẽ làm được hết, ahihi.
 

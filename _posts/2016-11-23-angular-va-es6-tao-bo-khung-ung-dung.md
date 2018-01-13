@@ -8,7 +8,7 @@ tags: Angular, Angular2, 2016
 keywords: Angular, Angular2, ES6, Setup, 2016
 ---
 
-![alt text](https://4.bp.blogspot.com/-zRXAUpuJt78/WD6-e4drdYI/AAAAAAAABgY/BSGV_4U1VJgdLGqyik-ORAlBaE9DS3p1wCLcB/s320/angular2%2Bva%2Bes6.png "Angular và ES6: Tạo bộ khung ứng dụng")
+![alt text](https://4.bp.blogspot.com/-zRXAUpuJt78/WD6-e4drdYI/AAAAAAAABgY/BSGV_4U1VJgdLGqyik-ORAlBaE9DS3p1wCLcB/s320/angular2%2Bva%2Bes6.png "Angular và ES6: Tạo bộ khung ứng dụng")Angular và ES6: Tạo bộ khung ứng dụng
 
 Nếu bạn cũng như tôi, đã từng biết đến Angular1. Và khi bắt đầu với Angular2 bạn không biết bắt đầu từ đâu, các thư viện liên quan để chạy Angular...
 
@@ -35,7 +35,7 @@ $ yo angular2
 
 Yo sẽ tự động chạy npm install cho bạn chứ bạn không cần chạy như trên hướng dẫn của angular.io nữa.
 
-![cover](https://2.bp.blogspot.com/--viIQm8iuao/WD7hvSr_ZdI/AAAAAAAABgw/PM37AfROhI4pECTWqwFwhxJ7zG_3c4fsACLcB/s640/yo%2Bgenerator%2Bangular%2B2.jpg)
+![cover](https://2.bp.blogspot.com/--viIQm8iuao/WD7hvSr_ZdI/AAAAAAAABgw/PM37AfROhI4pECTWqwFwhxJ7zG_3c4fsACLcB/s640/yo%2Bgenerator%2Bangular%2B2.jpg)Sau khi chạy Yo
 
 ## Chạy thử
 

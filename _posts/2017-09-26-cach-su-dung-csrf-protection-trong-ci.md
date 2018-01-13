@@ -13,7 +13,7 @@ keywords: Angular, CodeIgniter, JavaScript, Jquery, PHP, csrf protection
 
 Cross Site Request Forgery, là lỗ hổng phổ biến nhất trong các trang web và ứng dụng web. Lỗ hổng này đã được phát hiện từ rất lâu nên tôi không đi vào chi tiết về nó mà chỉ nói về cách sử dụng trong framework CodeIgniter. Nếu bạn muốn biết thêm về nó thì đọc trên [wikipedia](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
 
-![alt text](https://4.bp.blogspot.com/-_dA-Vfq1q1E/WawpL-2WovI/AAAAAAAABk8/HRpIYBwUqy4KaNeFt6XasJxBsU1jSq2EQCLcBGAs/s400/codeigniter-csrf-security-token-ajax.png "Cách sử dụng CSRF Protection trong CodeIgniter")
+![alt text](https://4.bp.blogspot.com/-_dA-Vfq1q1E/WawpL-2WovI/AAAAAAAABk8/HRpIYBwUqy4KaNeFt6XasJxBsU1jSq2EQCLcBGAs/s400/codeigniter-csrf-security-token-ajax.png "Cách sử dụng CSRF Protection trong CodeIgniter")Cách sử dụng CSRF Protection trong CodeIgniter
 
 Để kích hoạt CSRF Protect trong CodeIgniter, bạn vào trong file config tìm *$config['csrf_protection'] = FALSE;* và đổi giá trị lại là **TRUE**. Và thay các giá trị phía bên dưới theo ý bạn. Như vậy, sau mỗi lần request thì CI sẽ làm mới token và lưu vào cookie với tên bạn đã cấu hình *$config['csrf_cookie_name']*. 
 

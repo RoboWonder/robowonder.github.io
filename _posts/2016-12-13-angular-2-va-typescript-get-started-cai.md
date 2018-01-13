@@ -10,7 +10,7 @@ tags: Angular, Angular2, 2016
 keywords: Angular, Angular2, Get start, TypeScript , 2016
 ---
 
-![alt text](https://4.bp.blogspot.com/-vpu83W2dQNM/WE2E7ZuwFQI/AAAAAAAABi8/qm-KFc3WmQYLNJh0FZBvVw2yjS-4WMkhgCLcB/s640/angular2typescript.jpg "Angular 2 và TypeScript: Get started - Cài đặt và chạy ứng dụng demo")
+![alt text](https://4.bp.blogspot.com/-vpu83W2dQNM/WE2E7ZuwFQI/AAAAAAAABi8/qm-KFc3WmQYLNJh0FZBvVw2yjS-4WMkhgCLcB/s640/angular2typescript.jpg "Angular 2 và TypeScript: Get started - Cài đặt và chạy ứng dụng demo")Cài đặt và chạy ứng dụng demo
 
 Tôi đang bắt đầu một serial viết tutorial cho Angular 2 với TypeScript theo yêu cầu của đệ tử. Trước đây tôi chỉ có ý định viết về ES6 chứ không viết về TypeScript vì ngôn ngữ này đã có tài liệu rất rõ trên angular.io rồi.
 

@@ -10,9 +10,9 @@ tags: Angular, Angular2, 2016
 keywords: Angular, Angular2, template syntax, 2016
 ---
 
-![alt text](https://1.bp.blogspot.com/-c4LnEr9Euok/WEWT6zBIBVI/AAAAAAAABik/1pt6dQF7Lv455VVcU_endSRTeiNTgg6gQCPcB/s1600/angular.png "Cú pháp template trong Angular 2")
+![alt text](https://1.bp.blogspot.com/-c4LnEr9Euok/WEWT6zBIBVI/AAAAAAAABik/1pt6dQF7Lv455VVcU_endSRTeiNTgg6gQCPcB/s1600/angular.png "Cú pháp template trong Angular 2")Cú pháp template trong Angular 2
 
-Nối tiếp [phần 1 về cú pháp template trong Angular 2](http://www.peamon.com/2016/12/cu-phap-template-trong-angular-2-phan-1.html). Nếu các bạn chưa đọc thì nên đọc lại trước khi đọc bài này.
+Nối tiếp [phần 1 về cú pháp template trong Angular 2](http://www.robowonder.com/2016/12/cu-phap-template-trong-angular-2-phan-1.html). Nếu các bạn chưa đọc thì nên đọc lại trước khi đọc bài này.
 
 ## Nội suy (Interpolation)
 
