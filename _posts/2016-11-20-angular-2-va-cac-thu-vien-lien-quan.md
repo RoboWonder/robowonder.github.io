@@ -9,9 +9,7 @@ tags: Angular, Angular2, 2016
 keywords: Angular, Angular2, 2016
 ---
 
-![cover](https://4.bp.blogspot.com/-OIsfM_7uAhw/WD3w12mgjOI/AAAAAAAABf8/s9PH6lkSuT8vPEM2r0HWQ0pnPFtQ57t0QCLcB/s320/angular2_thu_vien_phu_thuoc.png)
-
-Angular 2 ra đời và chính thức lấy tên là Angular chứ không còn là AngularJs nữa. Và như tôi nhận thấy thì rất rất nhiều người đã phải bối rối ngay từ khi Angular vẫn đang beta.
+![cover](https://4.bp.blogspot.com/-OIsfM_7uAhw/WD3w12mgjOI/AAAAAAAABf8/s9PH6lkSuT8vPEM2r0HWQ0pnPFtQ57t0QCLcB/s320/angular2_thu_vien_phu_thuoc.png) Angular 2 ra đời và chính thức lấy tên là Angular chứ không còn là AngularJs nữa. Và như tôi nhận thấy thì rất rất nhiều người đã phải bối rối ngay từ khi Angular vẫn đang beta.
 
 Thử nhìn vào source của ví dụ "Hello Word" từ chính trang [angular.io](http://angular.io). Bạn có thể xem trên Plunker [tại đây](http://plnkr.co/edit/w2FVfKlWP72pzXIsfsCU?p=previews).
 
