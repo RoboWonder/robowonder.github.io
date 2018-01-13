@@ -11,8 +11,7 @@ keywords: blog, GitHub, Jekyll, Markdown
 
 Nếu bạn có thể đọc tài liệu tiếng anh thì xem trên trang chủ của Jekyll, trên đó đã viết rất chi tiết. Vậy nên bài này chỉ dành cho những bạn đọc trên Jekyll rồi mà vẫn chưa làm được.
 
-![alt text](https://jekyllrb.com/img/octojekyll.png "Jekyll + Github")Jekyll + Github
-
+<figure><img src="https://jekyllrb.com/img/octojekyll.png" alt="Jekyll + Github" title="Jekyll + Github"></figure>
 
 ## Tạo repository
 

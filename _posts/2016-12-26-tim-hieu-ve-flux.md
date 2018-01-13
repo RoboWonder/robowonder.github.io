@@ -13,8 +13,7 @@ keywords: Flux, JavaScript
 
 Flux là kiến trúc ứng dụng Facebook dùng để xây dựng các ứng dụng phía client. Kiến trúc này bổ sung khả năng thiết lập dữ liệu theo một hướng cho view của component trong Reactjs.
 
-![alt text](https://facebook.github.io/flux/img/flux-simple-f8-diagram-with-client-action-1300w.png "Giới thiệu Flux")Giới thiệu Flux
-
+<figure><img src="https://facebook.github.io/flux/img/flux-simple-f8-diagram-with-client-action-1300w.png" alt="Giới thiệu Flux" title="Giới thiệu Flux"></figure>
 
 Flux là một cấu trúc mở rộng của pattern chứ không phải là framework chính thức.
 

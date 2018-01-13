@@ -9,7 +9,7 @@ tags: Angular, Angular2, 2016
 keywords: Angular, Angular2, Angular 2 a-z, component, 2016
 ---
 
-![alt text](https://3.bp.blogspot.com/-dZE73m_xDmA/WFLYByetysI/AAAAAAAABjU/mHeO_K22Va02O3IFXP-OtmgOEfW3DderQCLcB/s640/angular_1_component_approximation.png "Angular 2 từ A-Z về component")Angular 2 từ A-Z về component
+<figure><img src="https://3.bp.blogspot.com/-dZE73m_xDmA/WFLYByetysI/AAAAAAAABjU/mHeO_K22Va02O3IFXP-OtmgOEfW3DderQCLcB/s640/angular_1_component_approximation.png" alt="Angular 2 từ A-Z về component" title="Angular 2 từ A-Z về component"></figure>
 
 Sau bài Cài đặt và tải ứng dụng demo là bài khởi đầu cho serial về tutorial Angular 2. Bài này viết này là bài được ưu tiên viết kế tiếp. Trong Angular có rất nhiều thứ quan trọng, nhưng tôi chọn viết về component trước bởi vì nó là thư quan trọng nhất. Tập hợp controller, directive, router... đều nằm trong component.
 
@@ -61,7 +61,7 @@ Rất nhiều bạn khi bắt đầu với Angular hay có suy nghĩ là làm th
 
 Đừng lo lắng, Angular và các framework javascript khác thừa sức làm điều đó. Như hình sau:
 
-![alt text](https://3.bp.blogspot.com/-2BXMmT6Mp_0/WFLkwB-cEsI/AAAAAAAABjs/akQ5I44GnJs4eHLC1RuTRziZ1kvnf_GwgCLcB/s400/component%2Bin%2Bcomponent.jpg "Component trong component")Component trong component
+<figure><img src="https://3.bp.blogspot.com/-2BXMmT6Mp_0/WFLkwB-cEsI/AAAAAAAABjs/akQ5I44GnJs4eHLC1RuTRziZ1kvnf_GwgCLcB/s400/component%2Bin%2Bcomponent.jpg" alt="Component trong component" title="Component trong component"></figure>
 
 Cứ từ từ theo dõi blog của tôi sẽ làm được hết, ahihi.
 

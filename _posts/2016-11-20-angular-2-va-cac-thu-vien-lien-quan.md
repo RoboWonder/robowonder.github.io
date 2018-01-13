@@ -9,7 +9,7 @@ tags: Angular, Angular2, 2016
 keywords: Angular, Angular2, 2016
 ---
 
-![cover](https://4.bp.blogspot.com/-OIsfM_7uAhw/WD3w12mgjOI/AAAAAAAABf8/s9PH6lkSuT8vPEM2r0HWQ0pnPFtQ57t0QCLcB/s320/angular2_thu_vien_phu_thuoc.png)Giới thiệu về Angular 2 và các thư viện liên quan
+<figure><img src="https://4.bp.blogspot.com/-OIsfM_7uAhw/WD3w12mgjOI/AAAAAAAABf8/s9PH6lkSuT8vPEM2r0HWQ0pnPFtQ57t0QCLcB/s320/angular2_thu_vien_phu_thuoc.png" alt="Giới thiệu về Angular 2 và các thư viện liên quan" title="Giới thiệu về Angular 2 và các thư viện liên quan"></figure>
 
 Angular 2 ra đời và chính thức lấy tên là Angular chứ không còn là AngularJs nữa. Và như tôi nhận thấy thì rất rất nhiều người đã phải bối rối ngay từ khi Angular vẫn đang beta.
 
@@ -25,13 +25,13 @@ Mở source file index.html ra và... Ôi mẹ ơi, một mớ lằng nhằng ch
 
 ## Giờ đi tìm hiểu từng file xem nó là cái gì.
 
-### System.js
+**System.js**
 
 Đây là một thư viện được viết bởi [Guy Bedford](https://github.com/guybedford) và các cộng sự. Được viết dựa trên es6-module-loader để thay vì chỉ load các module của es6 thì còn có thể load được cả CommonJs, AMD, global script. Được gọi là  “Universal dynamic module loader”.
 
 Như vậy, Angular không có hệ thống module riêng như Angular1 mà sử dụng lại của System.js. Vậy nên đầu tiên phải import nó vào trước nếu không Angular sẽ không chạy được đâu nhá.
 
-### Typescript.js
+**Typescript.js**
 
 Chắc hẳn các bạn đa số đều biết về TypeScript, trước đây tôi có một loạt bài viết về thằng này nhưng quên backup lại khi trả server.
 
@@ -47,15 +47,15 @@ System.config({
 });
 ```
 
-### angular2-polyfills
+**angular2-polyfills**
 
 File thực chất là hợp nhất giữa zone.js và reflect-metadata.
 
-### Rx.js
+**Rx.js**
 
 Là thư viện Observables. Thuật ngữ này sẽ gặp nhiều khi đi sâu vào Angular. Nó được bổ sung giống Promises ở Angular1. Cho dù bạn có hay không sử dụng Observables thì vẫn phải import thư viện này vào.
 
-### angular2.dev.js
+**angular2.dev.js**
 
 Cái này nhìn thấy chữ dev là rõ rồi hen. Không cần nói thêm nữa.
 

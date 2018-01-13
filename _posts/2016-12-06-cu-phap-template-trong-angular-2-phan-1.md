@@ -9,7 +9,7 @@ tags: Angular, Angular2, 2016
 keywords: Angular, Angular2, template syntax, 2016
 ---
 
-![alt text](https://2.bp.blogspot.com/-c4LnEr9Euok/WEWT6zBIBVI/AAAAAAAABiY/do5l9pATlbUxBzVU_q9IesrpNDRfODFogCLcB/s1600/angular.png "Cú pháp template trong Angular 2")Cú pháp template trong Angular 2
+<figure><img src="https://2.bp.blogspot.com/-c4LnEr9Euok/WEWT6zBIBVI/AAAAAAAABiY/do5l9pATlbUxBzVU_q9IesrpNDRfODFogCLcB/s1600/angular.png" alt="Cú pháp template trong Angular 2" title="Cú pháp template trong Angular 2"></figure>
 
 Bài này sẽ nói về một số cú pháp quy định trong Angular 2 để đưa dữ liệu vào template. Vấn đề này đã được nói rõ trong hướng dẫn chính thức của Angular trong trang Template Syntax vi vậy ở đây tôi không nói lại tất cả, chỉ nói những cái chưa rõ hay khó hiểu thôi.
 
@@ -19,7 +19,7 @@ Thuộc tính Input - Output là các API của Directive. Khi định nghĩa m�
 
 Với có thể cập nhật dữ liệu cho directive vào Input bằng cách bind  data, còn Output có thể dùng để bind event, ta sẽ lần lượt tìm hiểu sau đây.
 
-### Bind data
+**Bind data**
 
 Nhìn vào ví dụ sau, giả sử ta có một component dùng để render một Toto:
 
@@ -29,7 +29,7 @@ Nhìn vào ví dụ sau, giả sử ta có một component dùng để render m�
 
 Khi giá trị myToto thay đổi, ngay lập tức Angular sẽ tự động cập nhật giá trị mới bằng cách gọi setter của model.
 
-### Bind event
+**Bind event**
 
 Không chỉ bind data, Angular còn bind cả event mà DOM có hỗ trợ như onClick, onChange, onComplete... Thậm chí là event tự định nghĩa luôn. Giờ sửa ví dụ trên thành:
 

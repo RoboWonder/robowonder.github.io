@@ -9,7 +9,7 @@ tags: Angular, Angular2, 2016
 keywords: Angular, Angular2, Angular 2 a-z, component, 2016
 ---
 
-![alt text](https://1.bp.blogspot.com/-6s7YhOfw4UM/WFPKrfNsJtI/AAAAAAAABkI/57UrZoxi5M8fXJ59E-m9NR6CYTSAJTy2wCLcB/s640/anguar%2B2%2Btao%2Bcomponent%2Bdau%2Btien.png "Angular và TypeScript: Tạo component")Angular và TypeScript: Tạo component
+<figure><img src="https://1.bp.blogspot.com/-6s7YhOfw4UM/WFPKrfNsJtI/AAAAAAAABkI/57UrZoxi5M8fXJ59E-m9NR6CYTSAJTy2wCLcB/s640/anguar%2B2%2Btao%2Bcomponent%2Bdau%2Btien.png" alt="Angular và TypeScript: Tạo component" title="Angular và TypeScript: Tạo component"></figure>
 
 Trước khi đọc bài này, bạn cần phải đọc và làm theo hướng dẫn trong bài Cài đặt và chạy ứng dụng demo. Bởi vì chúng ta sẽ sử dụng ứng dụng demo trong bài đó để viết component.
 

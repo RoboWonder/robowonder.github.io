@@ -60,6 +60,6 @@ Chẳng biết trong trường hợp này dịch ra là gì, giải thích thì 
 
 Ở hai ví dụ trên, tag đầu tiên có thuộc tính đứng sau dấu #. Angular sẽ hiểu đó như là id và tự động select nó. Lúc cần mình chỉ lấy ra và dùng thôi.
 
-### Cú pháp hoa thị (\*) 
+**Cú pháp hoa thị (\*)**
 
 Phần này dài dòng mà angular.io đã nói rất rõ, các bạn [xem tại đây](https://angular.io/docs/ts/latest/guide/template-syntax.html#!#star-template)
