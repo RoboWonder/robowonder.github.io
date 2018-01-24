@@ -18,6 +18,7 @@ Bài này tiếp tục nói về các câu lệnh quan trọng khi sử dụng D
 ## Câu lệnh về container
 
 - Xem container đang chạy
+
 ```
 docker ps
 
@@ -32,16 +33,19 @@ docker ps -a
 ```
 
 - Xem các tiến trình bên trong một container
+
 ```
 docker top cid
 ```
 
 - Thông tin chi tiết về container
+
 ```
 docker inspect cid
 ```
 
 - Xem log
+
 ```
 docker logs cid
 
@@ -49,16 +53,19 @@ docker logs -f cid
 ```
 
 - Xem những thay đổi của container
+
 ```
 docker diff cid
 ```
 
 - Kiểm tra mật khẩu gốc của container
+
 ```
 docker logs cid 2>&1 | grep '^User: ' | tail -n1
 ```
 
 - Khởi động và tương tác với container
+
 ```
 docker run -i -t ubuntu /bin/bash
 
@@ -85,11 +92,13 @@ docker run -it --rm ubuntu bash
 ```
 
 - Attack vào container đang chạy, sau khi ngừng thì hết attack nhé
+
 ```
 docker attach cid
 ```
 
 - Chạy chương trình bên trong container
+
 ```
 docker run ubuntu apt-get update
 ```
