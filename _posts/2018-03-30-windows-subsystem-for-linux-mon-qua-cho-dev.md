@@ -11,7 +11,7 @@ keywords: Windows, Subsystem, for Linux
 
 Không kể các developer dùng MAC thì trước đây các web developer thường dùng song song 2 hệ điều hành trên máy tính, là Windows và Ubuntu. Các back-end hay full-stack developer thì xài hẳn Ubuntu luôn (mặc dù tụi nó cũng thèm Windows lắm :)))
 
-<figure><img src="https://www.softzone.es/app/uploads/2016/08/Windows-10-Ubuntu.png" alt="Windows Subsystem for Linux - Món quà tuyệt vời cho Dev" title="Windows Subsystem for Linux - Món quà tuyệt vời cho Dev"></figure>
+<figure><img src="https://2.bp.blogspot.com/-Gcn5mb3mcYM/Wr5GRC28fqI/AAAAAAAABrQ/INQjTmBzhfcL4PcfZtUd_XlSMMf5dSdfQCEwYBhgL/s1600/Windows-10-Ubuntu.png" alt="Windows Subsystem for Linux - Món quà tuyệt vời cho Dev" title="Windows Subsystem for Linux - Món quà tuyệt vời cho Dev"></figure>
 
 Đầu năm 2016, bộ phận phát triển Windows Kernel của Microsoft đã tung ra bản alpha đầu tiên của Windows Subsystem for Linux (WSL) làm dậy sóng cả cộng đồng develop. WSL giúp người dùng có thể sử dụng một phiên bản của Linux trên Windows mà không phải dùng ảo hóa.
 
