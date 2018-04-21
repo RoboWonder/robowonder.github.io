@@ -1,7 +1,7 @@
 ---
 image: https://4.bp.blogspot.com/-_dA-Vfq1q1E/WawpL-2WovI/AAAAAAAABk8/HRpIYBwUqy4KaNeFt6XasJxBsU1jSq2EQCLcBGAs/s400/codeigniter-csrf-security-token-ajax.png
 instantfeedback: true
-description: ross Site Request Forgery, là lỗ hổng phổ biến nhất trong các trang web và ứng dụng web.
+description: Cross Site Request Forgery, là lỗ hổng phổ biến nhất trong các trang web và ứng dụng web.
 layout: post
 title: Cách sử dụng CSRF Protection trong CodeIgniter
 category: Lập trình
