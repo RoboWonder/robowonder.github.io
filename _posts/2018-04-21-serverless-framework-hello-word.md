@@ -6,7 +6,7 @@ layout: post
 title: Hướng dẫn Serverless - Hello word
 category: Serverless
 tags: Serverless, hello word
-keywords: Serverless, hello word, hướng dẫn
+keywords: Serverless "hello word" "hướng dẫn"
 ---
 
 **Serverless giúp xây dựng các ứng dụng từ các dịch vụ đám mây, chẳng hạn như lưu trữ, tính toán và phân quyền**. Nhiệm vụ của lập trình viên là học cách kết hợp nhiều dịch vụ đám mây khác nhau như AWS Lambda, Google cloud function hay Azure function.
