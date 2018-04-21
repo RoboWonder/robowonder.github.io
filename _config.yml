@@ -46,4 +46,4 @@ gems:
   - jekyll-feed
   - jekyll-figure
 
-# future: true
+future: true
