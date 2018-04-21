@@ -3,7 +3,7 @@ image: https://3.bp.blogspot.com/-CPe3_HPHM3I/WtrPQWE6KMI/AAAAAAAABr8/yC1b6nnNsz
 instantfeedback: true
 description: Giới thiệu và hướng dẫn sử dụng framework serverless, serverless hello word
 layout: post
-title: Hướng dẫn Serverless: Hello word
+title: Hướng dẫn Serverless\: Hello word
 category: Serverless
 tags: Serverless, hello word
 keywords: Serverless, hello word, hướng dẫn
