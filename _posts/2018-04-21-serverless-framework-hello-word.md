@@ -5,7 +5,7 @@ description: Giới thiệu và hướng dẫn sử dụng framework serverless,
 layout: post
 title: Hướng dẫn Serverless - Hello word
 category: Serverless
-tags: Serverless, hello word
+tags: Serverless "hello word"
 keywords: Serverless "hello word" "hướng dẫn"
 ---
 
