@@ -1,5 +1,4 @@
 ---
-image: https://2.bp.blogspot.com/-Piz46-_Z-J8/WwjjVzHzc6I/AAAAAAAABss/AyCrKYwHpJ8RD1WzCFgm09yPNIHAfY9bACLcBGAs/s640/wp_20150101_001l.jpg
 instantfeedback: true
 description: Cài đặt Nginx, PHP-Fpm 7.1, MariaDB cho Windows Subsystem for Linux
 layout: post
@@ -13,8 +12,6 @@ keywords: Windows, Subsystem, for Linux, WSL, Nginx, PHP-Fpm, MariaDB
 Hiện nay trên mạng có rất nhiều bài viết hướng dẫn cài đặt webserver dùng cả Apache và cả Nginx. Tuy nhiên, các bài viết chủ yếu hướng dẫn cài php 5, mà hiện nay các framework php đa số yêu cầu php 7. Và php 7 hiệu suất tốt hơn php 5 rất nhiều.
 
 Server web chủ yếu chạy nginx nên bài này chỉ hướng dẫn cài nginx. Để trên máy dev và máy server cùng môi trường thì khi deploy sẽ dễ dàng cũng như ít phát sinh lỗi hơn.
-
-<figure><img src="https://2.bp.blogspot.com/-Piz46-_Z-J8/WwjjVzHzc6I/AAAAAAAABss/AyCrKYwHpJ8RD1WzCFgm09yPNIHAfY9bACLcBGAs/s640/wp_20150101_001l.jpg" alt="Suy nghĩ về Full Stack" title="Suy nghĩ về Full Stack"></figure>
 
 ## Cài đặt và cấu hình Nginx
 
