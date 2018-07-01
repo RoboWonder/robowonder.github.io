@@ -12,7 +12,7 @@ keywords: Full Stack, Suy nghĩ
 
 ## Full Stack là gì?
 
-Trong thời đại bây giờ, khi mà ngôn ngữ lập trình, frameword và flatform nhiều vô kể thì khó ai có thể master được tất cả các ngôn ngữ lập trình và kỹ năng ở tất cả nền tảng. Vì vậy, trên thực tế để hoàn thành dự án dựa trên nhiều công nghệ thì cần công sức của nhiều người chứ không phải của một người "full stack".
+Trong thời đại bây giờ, khi mà ngôn ngữ lập trình, framework và flatform nhiều vô kể thì khó ai có thể master được tất cả các ngôn ngữ lập trình và kỹ năng ở tất cả nền tảng. Vì vậy, trên thực tế để hoàn thành dự án dựa trên nhiều công nghệ thì cần công sức của nhiều người chứ không phải của một người "full stack".
 
 <figure><img src="https://2.bp.blogspot.com/-Piz46-_Z-J8/WwjjVzHzc6I/AAAAAAAABss/AyCrKYwHpJ8RD1WzCFgm09yPNIHAfY9bACLcBGAs/s640/wp_20150101_001l.jpg" alt="Suy nghĩ về Full Stack" title="Suy nghĩ về Full Stack"></figure>
 
