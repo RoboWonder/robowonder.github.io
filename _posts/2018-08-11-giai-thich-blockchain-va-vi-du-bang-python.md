@@ -13,7 +13,7 @@ Trong vài năm trở lại đây, blockchain đã trở thành thuật ngữ n�
 
 <h3>Blockchain là gì?</h3>
 
-<figure><img src=https://1.bp.blogspot.com/-xghaY6Tuiw8/W25yH8Kj4TI/AAAAAAAABt8/b7uNE1cYhIE0qA7gqqmDpevHciBMNnUUQCLcBGAs/s1600/biometric_blockchain_bitcoin.jpg" alt="Blockchain là gì?" title="Blockchain là gì?"></figure>
+<figure><img src="https://1.bp.blogspot.com/-xghaY6Tuiw8/W25yH8Kj4TI/AAAAAAAABt8/b7uNE1cYhIE0qA7gqqmDpevHciBMNnUUQCLcBGAs/s1600/biometric_blockchain_bitcoin.jpg" alt="Blockchain là gì?" title="Blockchain là gì?"></figure>
 
 Blockchain là một cuốn sổ cái ghi lại lịch sử của mọi giao dịch được phát sinh trên hệ thống, là giải pháp để duy trì chung một cơ sở dữ liệu đáng tin cậy thông qua phân cấp.
 
