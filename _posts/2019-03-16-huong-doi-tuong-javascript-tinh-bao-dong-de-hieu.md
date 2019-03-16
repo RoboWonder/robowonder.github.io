@@ -34,9 +34,7 @@ console.log(member);
 
 Kết quả:
 
-```
-Member {name: "Robo Wonder", getYearOld: ƒ}
-```
+```Member {name: "Robo Wonder", getYearOld: ƒ}```
 
 Thử truy cập thuộc tính private:
 
