@@ -18,6 +18,7 @@ Hành vi của các lớp con được chia sẻ dữ liệu và phương thức
 **Trường hợp 1** là kế thừa thông qua constructor. Có thể hiểu là lớp con copy trực tiếp mã của constructor của lớp cha, sau đó "paste" vào constructor của chính nó theo các quy tắc nhất định. Ví dụ:
 
 - Có 2 lớp như sau:
+
 ```javascript
 function B(name){
 	this.name = name;
