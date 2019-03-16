@@ -5,7 +5,7 @@ description: Hướng dẫn hướng đối tượng trong Javascript phần đa
 layout: post
 title: Hướng đối tượng Javascript - Tính đa hình (Siêu dễ hiểu)
 category: Lập trình
-tags: Javascrip, OOP
+tags: Javascript, OOP
 keywords: hướng đối tượng, lập trình, javascript, dễ hiểu
 ---
 

@@ -5,7 +5,7 @@ description: Hướng dẫn hướng đối tượng trong Javascript phần đ�
 layout: post
 title: Hướng đối tượng Javascript - Tính bao đóng (Siêu dễ hiểu)
 category: Lập trình
-tags: Javascrip, OOP
+tags: Javascript, OOP
 keywords: hướng đối tượng, lập trình, javascript, dễ hiểu
 ---
 
@@ -17,10 +17,10 @@ Giả sử một lớp có 2 đối tượng, một đối tượng cho có thu�
 
 ```javascript
 function Member(name){
-	var _yearOld = 15; //private
+	var _age = 30; //private
 	this.name = name;
-	this.getYearOld = function(){
-		console.log(_yearOld);
+	this.getAge = function(){
+		console.log(_age);
 	}
 }
 ```
@@ -34,18 +34,18 @@ console.log(member);
 
 Kết quả:
 
-```Member {name: "Robo Wonder", getYearOld: ƒ}```
+```Member {name: "Robo Wonder", getAge: ƒ}```
 
 Thử truy cập thuộc tính private:
 
 ```javascript
-_yearOld in member;
+_age in member;
 ```
-```Error: Uncaught ReferenceError: _yearOld is not defined```
+```Error: Uncaught ReferenceError: _age is not defined```
 
 ```javascript
-console.log(member.getYearOld());
-15 //ket qua
+console.log(member.getAge());
+30 //ket qua
 ```
 
 
