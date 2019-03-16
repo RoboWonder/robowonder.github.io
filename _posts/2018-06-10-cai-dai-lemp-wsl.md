@@ -83,7 +83,7 @@ sudo apt-get update -y
 Tiếp theo cài php-fpm:
 
 ```
-apt-get -y install php7.0-fpm
+apt-get -y install php7.1-fpm
 ```
 
 **\* Cấu hình PHP-Fpm:**
@@ -97,7 +97,7 @@ sudo vi /etc/php/7.1/fpm/pool.d/www.conf
 Tìm dòng:
 
 ```
-listen = unix:/run/php/php7.0-fpm.sock
+listen = unix:/run/php/php7.1-fpm.sock
 ```
 
 thay bằng:
