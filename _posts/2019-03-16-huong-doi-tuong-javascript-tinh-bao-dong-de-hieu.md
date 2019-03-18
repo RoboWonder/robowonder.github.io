@@ -56,9 +56,10 @@ Về bản chất thì chả khác gì nhau, nhưng cách viết thì lại khá
 ```javascript
 class Member{
 	constructor(name){
+		var _age = 30;
 		this.name = name;
-		this.getYearOld = function(){
-			console.log(_yearOld);
+		this.getAge = function(){
+			console.log(_age);
 		}
 	}
 }
