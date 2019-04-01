@@ -99,7 +99,7 @@ Luồng dữ liệu là một mô hình lập trình điện toán song song th�
 
 Trong TensorFlow, mỗi node được đại diện bởi tenxơ, nghĩa là đầu vào/ra của mỗi node chính là tenxơ. Xem luồng tenxơ chạy trong hình dưới đây:
 
-<figure><img src="https://3.bp.blogspot.com/-4EB2k3bh7fc/XKIWcDzSbHI/AAAAAAAABug/RhkfI7MM8xI_ez4XFmoq27V3_dxHRe1iQCLcBGAs/s400/20171212161708280.gif" alt="Bắt đầu TensorFlow - Luồng dữ liệu" title="Bắt đầu TensorFlow - Luồng dữ liệu"></figure>
+<figure><img style="max-width: 350px" src="https://3.bp.blogspot.com/-4EB2k3bh7fc/XKIWcDzSbHI/AAAAAAAABug/RhkfI7MM8xI_ez4XFmoq27V3_dxHRe1iQCLcBGAs/s400/20171212161708280.gif" alt="Bắt đầu TensorFlow - Luồng dữ liệu" title="Bắt đầu TensorFlow - Luồng dữ liệu"></figure>
 
 Nhìn sơ đồ trên ta có thể thấy một số lợi thế của luồng dữ liệu trong TensorFlow như sau: 
 
