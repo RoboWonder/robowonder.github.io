@@ -1,5 +1,5 @@
 ---
-image: null
+image: https://3.bp.blogspot.com/-Cl68Ch476YE/XKYH2yaaExI/AAAAAAAABzU/yhAnS0F7K7gir8P_CIV7u2GsUNjrxTAnwCLcBGAs/s1600/Annotation%2B2019-04-04%2B203402.png
 instantfeedback: true
 description: Ví dụ ứng dụng TensorFlow, Hướng dẫn học TensorFlow
 layout: post
