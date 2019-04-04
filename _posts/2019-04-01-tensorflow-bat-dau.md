@@ -1,5 +1,5 @@
 ---
-image: null
+image: https://3.bp.blogspot.com/-4EB2k3bh7fc/XKIWcDzSbHI/AAAAAAAABug/RhkfI7MM8xI_ez4XFmoq27V3_dxHRe1iQCLcBGAs/s400/20171212161708280.gif
 instantfeedback: true
 description: Hướng dẫn học TensorFlow cơ bản qua ví dụ
 layout: post
