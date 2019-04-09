@@ -3,6 +3,10 @@ body {
   background: #fff
   }
   .page{
-  width: 595px;
-}
+  width: 210mmt;
+  box-shadow: none;
+  }
+  .header, .header h3{
+    font-family: OpenSansRegular, Arial, sans-serif
+  }
 .face{display: none;}
